@@ -1,0 +1,5 @@
+{
+  "name": "Municipal OSINT Dashboard",
+  "description": "A dashboard for unified file access and Open Source Intelligence (OSINT) analysis for municipal data. It provides a lean, local-first interface for browsing projects, managing files with safety features like dry-run and undo, and visualizing OSINT feeds on a map.",
+  "requestFramePermissions": []
+}
